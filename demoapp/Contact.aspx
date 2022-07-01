@@ -5,7 +5,7 @@
     <p>Your contact page.</p>
 
     <address>
-        One Microsoft my Way<br />
+        One Microsoft my India Way<br />
         Redmond, WA 98052-6399<br />
         <abbr title="Phone">P:</abbr>
         425.555.0100
